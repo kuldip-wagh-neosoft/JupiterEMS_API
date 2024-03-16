@@ -1,0 +1,33 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="DataContext\EltizamContext.cs" />
+    <Compile Remove="Entity\Master_City.cs" />
+    <Compile Remove="Entity\Master_Department.cs" />
+    <Compile Remove="Entity\Master_Designation.cs" />
+    <Compile Remove="Entity\Master_OwnershipType.cs" />
+    <Compile Remove="Entity\Master_PropertySubType.cs" />
+    <Compile Remove="Entity\Master_PropertyType.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="6.0.22" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="6.0.21">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="6.0.21" />
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.5" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Jupiter.Utility\Jupiter.Utility.csproj" />
+  </ItemGroup>
+
+</Project>
