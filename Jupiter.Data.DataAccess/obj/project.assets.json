@@ -9524,11 +9524,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DELL156\\Desktop\\Jupiter-EMS\\Skelton Jupiter1\\Skelton Jupiter1\\JupiterCMS\\Jupiter\\Jupiter.Data.DataAccess\\Jupiter.Data.DataAccess.csproj",
+      "projectUniqueName": "C:\\Users\\DELL156\\Desktop\\Jupiter-EMS\\Jupiter_BoilerPlate\\JupiterEMS_API\\Jupiter.Data.DataAccess\\Jupiter.Data.DataAccess.csproj",
       "projectName": "Jupiter.Data.DataAccess",
-      "projectPath": "C:\\Users\\DELL156\\Desktop\\Jupiter-EMS\\Skelton Jupiter1\\Skelton Jupiter1\\JupiterCMS\\Jupiter\\Jupiter.Data.DataAccess\\Jupiter.Data.DataAccess.csproj",
+      "projectPath": "C:\\Users\\DELL156\\Desktop\\Jupiter-EMS\\Jupiter_BoilerPlate\\JupiterEMS_API\\Jupiter.Data.DataAccess\\Jupiter.Data.DataAccess.csproj",
       "packagesPath": "C:\\Users\\DELL156\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\DELL156\\Desktop\\Jupiter-EMS\\Skelton Jupiter1\\Skelton Jupiter1\\JupiterCMS\\Jupiter\\Jupiter.Data.DataAccess\\obj\\",
+      "outputPath": "C:\\Users\\DELL156\\Desktop\\Jupiter-EMS\\Jupiter_BoilerPlate\\JupiterEMS_API\\Jupiter.Data.DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -9549,8 +9549,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\DELL156\\Desktop\\Jupiter-EMS\\Skelton Jupiter1\\Skelton Jupiter1\\JupiterCMS\\Jupiter\\Jupiter.Utility\\Jupiter.Utility.csproj": {
-              "projectPath": "C:\\Users\\DELL156\\Desktop\\Jupiter-EMS\\Skelton Jupiter1\\Skelton Jupiter1\\JupiterCMS\\Jupiter\\Jupiter.Utility\\Jupiter.Utility.csproj"
+            "C:\\Users\\DELL156\\Desktop\\Jupiter-EMS\\Jupiter_BoilerPlate\\JupiterEMS_API\\Jupiter.Utility\\Jupiter.Utility.csproj": {
+              "projectPath": "C:\\Users\\DELL156\\Desktop\\Jupiter-EMS\\Jupiter_BoilerPlate\\JupiterEMS_API\\Jupiter.Utility\\Jupiter.Utility.csproj"
             }
           }
         }

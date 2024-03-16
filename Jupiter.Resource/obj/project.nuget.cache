@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7/mMELsu2UJxG3iNY+8KFcmt+Gsbmfa8fGH5m2rvi4QjtRETlKtyJqrALr1CeP+pNoPoGHxBAWGdO3ddKaEn4A==",
+  "dgSpecHash": "Z2AgVp0Vwq4RbsZJExNJe0Svf5CkADLteo4s1+L2l1JO0yKfdZxO0kNILhTDbImAaMIoVko3eo8haeBEB7Sp/g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\DELL156\\Desktop\\Jupiter-EMS\\Skelton Jupiter1\\Skelton Jupiter1\\JupiterCMS\\Jupiter\\Jupiter.Resource\\Jupiter.Resource.csproj",
+  "projectFilePath": "C:\\Users\\DELL156\\Desktop\\Jupiter-EMS\\Jupiter_BoilerPlate\\JupiterEMS_API\\Jupiter.Resource\\Jupiter.Resource.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DELL156\\.nuget\\packages\\microsoft.aspnetcore.antiforgery\\2.2.0\\microsoft.aspnetcore.antiforgery.2.2.0.nupkg.sha512",
     "C:\\Users\\DELL156\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",

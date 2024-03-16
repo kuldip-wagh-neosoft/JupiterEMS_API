@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DELL156\\Desktop\\Jupiter-EMS\\Skelton Jupiter1\\Skelton Jupiter1\\JupiterCMS\\Jupiter\\Jupiter.Resource\\Jupiter.Resource.csproj": {}
+    "C:\\Users\\DELL156\\Desktop\\Jupiter-EMS\\Jupiter_BoilerPlate\\JupiterEMS_API\\Jupiter.Resource\\Jupiter.Resource.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DELL156\\Desktop\\Jupiter-EMS\\Skelton Jupiter1\\Skelton Jupiter1\\JupiterCMS\\Jupiter\\Jupiter.Resource\\Jupiter.Resource.csproj": {
+    "C:\\Users\\DELL156\\Desktop\\Jupiter-EMS\\Jupiter_BoilerPlate\\JupiterEMS_API\\Jupiter.Resource\\Jupiter.Resource.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DELL156\\Desktop\\Jupiter-EMS\\Skelton Jupiter1\\Skelton Jupiter1\\JupiterCMS\\Jupiter\\Jupiter.Resource\\Jupiter.Resource.csproj",
+        "projectUniqueName": "C:\\Users\\DELL156\\Desktop\\Jupiter-EMS\\Jupiter_BoilerPlate\\JupiterEMS_API\\Jupiter.Resource\\Jupiter.Resource.csproj",
         "projectName": "Jupiter.Resource",
-        "projectPath": "C:\\Users\\DELL156\\Desktop\\Jupiter-EMS\\Skelton Jupiter1\\Skelton Jupiter1\\JupiterCMS\\Jupiter\\Jupiter.Resource\\Jupiter.Resource.csproj",
+        "projectPath": "C:\\Users\\DELL156\\Desktop\\Jupiter-EMS\\Jupiter_BoilerPlate\\JupiterEMS_API\\Jupiter.Resource\\Jupiter.Resource.csproj",
         "packagesPath": "C:\\Users\\DELL156\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DELL156\\Desktop\\Jupiter-EMS\\Skelton Jupiter1\\Skelton Jupiter1\\JupiterCMS\\Jupiter\\Jupiter.Resource\\obj\\",
+        "outputPath": "C:\\Users\\DELL156\\Desktop\\Jupiter-EMS\\Jupiter_BoilerPlate\\JupiterEMS_API\\Jupiter.Resource\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

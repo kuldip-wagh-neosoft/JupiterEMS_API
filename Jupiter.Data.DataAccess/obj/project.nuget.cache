@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xadkuuVcOTt6rCPouPpjR0NpHB1IYQQam+mIiZIIxktugLV8vzo6E5xabJ7CDCra8uoamFfmbGhCn54HNsmTvQ==",
+  "dgSpecHash": "JZA8s6uwgB8HOvd8OuEyNF6o8ArOXqoLO4qSru0D+CG010fYsB7m51FjTPhKX96BkNdqOkY0LefqED1wwoYzCw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\DELL156\\Desktop\\Jupiter-EMS\\Skelton Jupiter1\\Skelton Jupiter1\\JupiterCMS\\Jupiter\\Jupiter.Data.DataAccess\\Jupiter.Data.DataAccess.csproj",
+  "projectFilePath": "C:\\Users\\DELL156\\Desktop\\Jupiter-EMS\\Jupiter_BoilerPlate\\JupiterEMS_API\\Jupiter.Data.DataAccess\\Jupiter.Data.DataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DELL156\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\DELL156\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",

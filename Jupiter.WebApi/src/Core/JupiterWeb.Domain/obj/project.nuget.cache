@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1Y9lJAVQCbNpXZTHdQiPCqfoHZIWH8/7SJXzxp/jXkd392BbkIomQpvF4Z9zz4Gyr2gyTJvK8c5HzxCi8x8QQQ==",
+  "dgSpecHash": "Rys5ZctNj29PkR9YKyTu1QVY/yNHEWaNNhY9GDce/rNlwKo/6PaJR6XQZIHCgUPSlyQVdBg/V6cS4+hFLLseXw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\DELL156\\Desktop\\Jupiter-EMS\\Skelton Jupiter1\\Skelton Jupiter1\\JupiterCMS\\Jupiter\\Jupiter.WebApi\\src\\Core\\JupiterWeb.Domain\\JupiterWeb.Domain.csproj",
+  "projectFilePath": "C:\\Users\\DELL156\\Desktop\\Jupiter-EMS\\Jupiter_BoilerPlate\\JupiterEMS_API\\Jupiter.WebApi\\src\\Core\\JupiterWeb.Domain\\JupiterWeb.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DELL156\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\6.0.8\\microsoft.aspnetcore.jsonpatch.6.0.8.nupkg.sha512",
     "C:\\Users\\DELL156\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\6.0.8\\microsoft.aspnetcore.mvc.newtonsoftjson.6.0.8.nupkg.sha512",

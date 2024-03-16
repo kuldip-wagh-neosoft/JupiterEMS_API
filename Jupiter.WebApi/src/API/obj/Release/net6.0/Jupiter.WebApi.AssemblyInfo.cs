@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Jupiter.WebApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+629c60dfc0dea0c3951d0dd297ca1b3ceab9aa34")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e1667171f3081493668b59eddefb4c1e14a9bd2b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Jupiter.WebApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Jupiter.WebApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

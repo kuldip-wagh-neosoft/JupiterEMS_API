@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eWGJT7LpogrZypL/I/BkI7kM1K3Y4jjC9ZAWILX6iwvJRy07PHO041FGCm5ZeS6vTr766SrtQOaNo0bsZedXrw==",
+  "dgSpecHash": "cMqrIDPK9JsAglqPAxWWK9ZT8Pr+PLe8ndwE1eTz7uLzy6sCN/oOTKZvdOhXNO4yRFvX5k1viobQ0faFMayDqA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\DELL156\\Desktop\\Jupiter-EMS\\Skelton Jupiter1\\Skelton Jupiter1\\JupiterCMS\\Jupiter\\Jupiter.Utility\\Jupiter.Utility.csproj",
+  "projectFilePath": "C:\\Users\\DELL156\\Desktop\\Jupiter-EMS\\Jupiter_BoilerPlate\\JupiterEMS_API\\Jupiter.Utility\\Jupiter.Utility.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DELL156\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\DELL156\\.nuget\\packages\\jsondiffpatch.net\\2.3.0\\jsondiffpatch.net.2.3.0.nupkg.sha512",

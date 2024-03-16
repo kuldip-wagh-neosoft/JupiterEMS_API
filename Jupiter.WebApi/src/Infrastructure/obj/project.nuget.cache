@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9p6GgKOcj9OVX1S7i39h2QclFfKZtgMN6P0gbXj03PK36xJ3Lz6psFamwr18466hhoF4IkegsybP79WhSBK4Ng==",
+  "dgSpecHash": "TWF7puaetdnRwiI773SR0I4rJ+KXUYUVWCcqmZ8qgeyCukDiI+ygGmjKfusTDbnchHJn0y+JdqAfAuc9ZcZ74w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\DELL156\\Desktop\\Jupiter-EMS\\Skelton Jupiter1\\Skelton Jupiter1\\JupiterCMS\\Jupiter\\Jupiter.WebApi\\src\\Infrastructure\\JupiterWeb.Persistence.csproj",
+  "projectFilePath": "C:\\Users\\DELL156\\Desktop\\Jupiter-EMS\\Jupiter_BoilerPlate\\JupiterEMS_API\\Jupiter.WebApi\\src\\Infrastructure\\JupiterWeb.Persistence.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DELL156\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\DELL156\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

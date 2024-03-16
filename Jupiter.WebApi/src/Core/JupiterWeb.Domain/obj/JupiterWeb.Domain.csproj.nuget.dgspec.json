@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DELL156\\Desktop\\Jupiter-EMS\\Skelton Jupiter1\\Skelton Jupiter1\\JupiterCMS\\Jupiter\\Jupiter.WebApi\\src\\Core\\JupiterWeb.Domain\\JupiterWeb.Domain.csproj": {}
+    "C:\\Users\\DELL156\\Desktop\\Jupiter-EMS\\Jupiter_BoilerPlate\\JupiterEMS_API\\Jupiter.WebApi\\src\\Core\\JupiterWeb.Domain\\JupiterWeb.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DELL156\\Desktop\\Jupiter-EMS\\Skelton Jupiter1\\Skelton Jupiter1\\JupiterCMS\\Jupiter\\Jupiter.WebApi\\src\\Core\\JupiterWeb.Domain\\JupiterWeb.Domain.csproj": {
+    "C:\\Users\\DELL156\\Desktop\\Jupiter-EMS\\Jupiter_BoilerPlate\\JupiterEMS_API\\Jupiter.WebApi\\src\\Core\\JupiterWeb.Domain\\JupiterWeb.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DELL156\\Desktop\\Jupiter-EMS\\Skelton Jupiter1\\Skelton Jupiter1\\JupiterCMS\\Jupiter\\Jupiter.WebApi\\src\\Core\\JupiterWeb.Domain\\JupiterWeb.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\DELL156\\Desktop\\Jupiter-EMS\\Jupiter_BoilerPlate\\JupiterEMS_API\\Jupiter.WebApi\\src\\Core\\JupiterWeb.Domain\\JupiterWeb.Domain.csproj",
         "projectName": "JupiterWeb.Domain",
-        "projectPath": "C:\\Users\\DELL156\\Desktop\\Jupiter-EMS\\Skelton Jupiter1\\Skelton Jupiter1\\JupiterCMS\\Jupiter\\Jupiter.WebApi\\src\\Core\\JupiterWeb.Domain\\JupiterWeb.Domain.csproj",
+        "projectPath": "C:\\Users\\DELL156\\Desktop\\Jupiter-EMS\\Jupiter_BoilerPlate\\JupiterEMS_API\\Jupiter.WebApi\\src\\Core\\JupiterWeb.Domain\\JupiterWeb.Domain.csproj",
         "packagesPath": "C:\\Users\\DELL156\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DELL156\\Desktop\\Jupiter-EMS\\Skelton Jupiter1\\Skelton Jupiter1\\JupiterCMS\\Jupiter\\Jupiter.WebApi\\src\\Core\\JupiterWeb.Domain\\obj\\",
+        "outputPath": "C:\\Users\\DELL156\\Desktop\\Jupiter-EMS\\Jupiter_BoilerPlate\\JupiterEMS_API\\Jupiter.WebApi\\src\\Core\\JupiterWeb.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

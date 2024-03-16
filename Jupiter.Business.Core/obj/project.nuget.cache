@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SKdHHMXEgj2FSoJeiKbWE/6DE6/DlnUPUibxq0QeJsUP8phdqR8BH2ZOWkszXuwC1m/8JxCufhK0g9GtPLcebQ==",
+  "dgSpecHash": "JGxnoECb0czVlSoiRimeM3DWnCr8nn2yZwKNxVqFJ5LSq4gP1pdYw8RZCXsUVTPcLn6yoSdOpu5Q4TSciqcQMA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\DELL156\\Desktop\\Jupiter-EMS\\Skelton Jupiter1\\Skelton Jupiter1\\JupiterCMS\\Jupiter\\Jupiter.Business.Core\\Jupiter.Business.Core.csproj",
+  "projectFilePath": "C:\\Users\\DELL156\\Desktop\\Jupiter-EMS\\Jupiter_BoilerPlate\\JupiterEMS_API\\Jupiter.Business.Core\\Jupiter.Business.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DELL156\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\DELL156\\.nuget\\packages\\bouncycastle.cryptography\\2.2.1\\bouncycastle.cryptography.2.2.1.nupkg.sha512",

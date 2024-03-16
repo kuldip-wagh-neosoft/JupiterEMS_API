@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VgMgtR4zuHri6oTa2xl+ltfXuwt5HXPwGBqli9iFEVtZAqGkG4rLJQIwQkKbkja3QK/pF/ys0K7cY7KkL2K8dQ==",
+  "dgSpecHash": "0iDmlIaNMdjn97qjn8ywbBm/7U8+vtpoXPbHFqAVnUL9caWeOakYFW8YSNtkwwqeOCvRVPt/AaI2w5A2Y3/20w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\DELL156\\Desktop\\Jupiter-EMS\\Skelton Jupiter1\\Skelton Jupiter1\\JupiterCMS\\Jupiter\\Jupiter.Business.Models\\Jupiter.Business.Models.csproj",
+  "projectFilePath": "C:\\Users\\DELL156\\Desktop\\Jupiter-EMS\\Jupiter_BoilerPlate\\JupiterEMS_API\\Jupiter.Business.Models\\Jupiter.Business.Models.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DELL156\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\DELL156\\.nuget\\packages\\microsoft.aspnetcore.antiforgery\\2.2.0\\microsoft.aspnetcore.antiforgery.2.2.0.nupkg.sha512",
