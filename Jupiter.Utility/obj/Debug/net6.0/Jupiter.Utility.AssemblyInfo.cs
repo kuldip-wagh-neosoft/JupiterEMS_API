@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Jupiter.Utility")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2dab107f738c929347b31501b0d23574ad49b97d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+47b217b0cf69c10a1aa86512a68191562f533fdf")]
 [assembly: System.Reflection.AssemblyProductAttribute("Jupiter.Utility")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Jupiter.Utility")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
