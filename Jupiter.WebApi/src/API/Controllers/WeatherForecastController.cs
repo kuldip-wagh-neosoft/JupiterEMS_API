@@ -18,6 +18,7 @@ namespace Jupiter.WebApi.Controllers
         // private readonly IStringLocalizer<Errors> _stringLocalizerError;
         //private readonly IExceptionService _ExceptionService;
         //private readonly IHelper _helper;
+         //private readonly IHelper _helper;
 
         #endregion Properties
 
